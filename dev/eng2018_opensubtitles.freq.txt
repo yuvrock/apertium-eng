@@ -1,3 +1,4 @@
+Noun:n ; Verb:v ; Ajective:a ; Adverb:r ; Pronoun:p ; Exclamation:e ; Toponym:t ; Male first name:m ; Female first name:f ; Last name:c
 28787591 ^you/*you$
 27086011 ^i/*i$
 22761659 ^the/*the$
@@ -498,15 +499,15 @@
   140327 ^welcome/*welcome$
   140078 ^high/*high$
   139593 ^wow/*wow$
-  138996 ^couple/*couple$
-  138527 ^half/*half$
-  138432 ^died/*died$
-  138139 ^cool/*cool$
-  137598 ^free/*free$
-  137448 ^either/*either$
-  136699 ^seems/*seems$
-  136611 ^power/*power$
-  136564 ^whoa/*whoa$
+  n 138996 ^couple/*couple$
+  n 138527 ^half/*half$
+  v 138432 ^died/*died$
+  a 138139 ^cool/*cool$
+  a 137598 ^free/*free$
+  r 137448 ^either/*either$
+  v 136699 ^seems/*seems$
+  n 136611 ^power/*power$
+  e 136564 ^whoa/*whoa$
   136276 ^bye/*bye$
   136137 ^buy/*buy$
   136109 ^telling/*telling$
