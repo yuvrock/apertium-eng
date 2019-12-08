@@ -1,3 +1,4 @@
+Noun:n ; Verb:v ; Adjective:a ; Adverb:r ; Preposition:o ; Pronoun:p ; Exclamation:e ; Toponym:t ; Male first name:m ; Female first name:f ; Last name:l ; Number:u ; Contraction:c ; Conjunction:i
 28787591 ^you/*you$
 27086011 ^i/*i$
 22761659 ^the/*the$
@@ -497,507 +498,507 @@
   140553 ^yours/*yours$
   140327 ^welcome/*welcome$
   140078 ^high/*high$
-  139593 ^wow/*wow$
-  138996 ^couple/*couple$
-  138527 ^half/*half$
-  138432 ^died/*died$
-  138139 ^cool/*cool$
-  137598 ^free/*free$
-  137448 ^either/*either$
-  136699 ^seems/*seems$
-  136611 ^power/*power$
-  136564 ^whoa/*whoa$
-  136276 ^bye/*bye$
-  136137 ^buy/*buy$
-  136109 ^telling/*telling$
-  135631 ^honey/*honey$
-  135401 ^tried/*tried$
-  135341 ^front/*front$
-  134358 ^team/*team$
-  134088 ^answer/*answer$
-  133072 ^gun/*gun$
-  132594 ^boys/*boys$
-  132433 ^line/*line$
-  131999 ^send/*send$
-  131599 ^news/*news$
-  131497 ^stupid/*stupid$
-  131445 ^bed/*bed$
-  130182 ^hurry/*hurry$
-  129735 ^full/*full$
-  129732 ^months/*months$
-  129390 ^save/*save$
-  128779 ^sometimes/*sometimes$
-  128716 ^become/*become$
-  128220 ^along/*along$
-  128153 ^hate/*hate$
-  127657 ^food/*food$
-  127251 ^outside/*outside$
-  126657 ^light/*light$
-  126518 ^l/*l$
-  126398 ^needs/*needs$
-  125769 ^dog/*dog$
-  125731 ^country/*country$
-  125730 ^clear/*clear$
-  125446 ^order/*order$
-  125033 ^em/*em$
-  124995 ^fact/*fact$
-  124880 ^lord/*lord$
-  124874 ^captain/*captain$
-  124087 ^six/*six$
-  123994 ^hot/*hot$
-  123924 ^funny/*funny$
-  123718 ^black/*black$
-  123530 ^mrs./*mrs.$
-  122833 ^alive/*alive$
-  122698 ^pick/*pick$
-  122065 ^feeling/*feeling$
-  121552 ^living/*living$
-  121264 ^cause/*cause$
-  120295 ^ahead/*ahead$
-  118712 ^lose/*lose$
-  118230 ^king/*king$
-  118129 ^plan/*plan$
-  117970 ^dinner/*dinner$
-  117410 ^sighs/*sighs$
-  117267 ^sort/*sort$
-  117050 ^leaving/*leaving$
-  117029 ^shouldn/*shouldn$
-  116973 ^running/*running$
-  116736 ^boss/*boss$
-  116629 ^alright/*alright$
-  115908 ^promise/*promise$
-  115236 ^taken/*taken$
-  114104 ^safe/*safe$
-  114026 ^ma/*ma$
-  113963 ^book/*book$
-  113959 ^sent/*sent$
-  112881 ^white/*white$
-  112782 ^hour/*hour$
-  112582 ^anybody/*anybody$
-  112316 ^small/*small$
-  112229 ^perfect/*perfect$
-  112193 ^'cause/*'cause$
-  110583 ^lives/*lives$
-  110344 ^special/*special$
-  110206 ^parents/*parents$
-  110199 ^s/*s$
-  109966 ^john/*john$
-  109748 ^himself/*himself$
-  109240 ^perhaps/*perhaps$
-  109140 ^sounds/*sounds$
-  108774 ^serious/*serious$
-  108596 ^sick/*sick$
-  108073 ^company/*company$
-  107974 ^ha/*ha$
-  107906 ^scared/*scared$
-  107826 ^uncle/*uncle$
-  107444 ^poor/*poor$
-  106589 ^red/*red$
-  106439 ^past/*past$
-  106394 ^earth/*earth$
-  106080 ^possible/*possible$
-  106067 ^shoot/*shoot$
-  105846 ^touch/*touch$
-  105298 ^sound/*sound$
-  105282 ^top/*top$
-  105009 ^ass/*ass$
-  104913 ^laughs/*laughs$
-  103913 ^cannot/*cannot$
-  102974 ^asking/*asking$
-  102956 ^win/*win$
-  102848 ^glad/*glad$
-  102782 ^control/*control$
-  102607 ^hmm/*hmm$
-  102595 ^human/*human$
-  102436 ^drive/*drive$
-  101852 ^hair/*hair$
-  101666 ^jack/*jack$
-  101302 ^bitch/*bitch$
-  101228 ^luck/*luck$
-  101133 ^murder/*murder$
-  100847 ^happens/*happens$
-  100137 ^air/*air$
-  100133 ^ten/*ten$
-  100005 ^daddy/*daddy$
-   99904 ^finally/*finally$
-   99607 ^chuckles/*chuckles$
-   99084 ^fast/*fast$
-   99032 ^cold/*cold$
-   98575 ^seem/*seem$
-   98420 ^laughing/*laughing$
-   98242 ^words/*words$
-   98076 ^hospital/*hospital$
-   98007 ^street/*street$
-   97778 ^hang/*hang$
-   97339 ^dance/*dance$
-   97328 ^meeting/*meeting$
-   97044 ^till/*till$
-   96631 ^others/*others$
-   96609 ^catch/*catch$
-   96529 ^follow/*follow$
-   96442 ^sense/*sense$
-   96431 ^sex/*sex$
-   95930 ^lie/*lie$
-   95321 ^evening/*evening$
-   95131 ^master/*master$
-   95125 ^known/*known$
-   95089 ^dream/*dream$
-   94964 ^write/*write$
-   94514 ^million/*million$
-   94104 ^voice/*voice$
-   94057 ^sweet/*sweet$
-   94057 ^rather/*rather$
-   93826 ^felt/*felt$
-   92512 ^sign/*sign$
-   92377 ^lucky/*lucky$
-   92265 ^somewhere/*somewhere$
-   91573 ^bet/*bet$
-   91243 ^o/*o$
-   91143 ^jesus/*jesus$
-   91035 ^longer/*longer$
-   90868 ^calling/*calling$
-   90771 ^worked/*worked$
-   90552 ^quiet/*quiet$
-   90441 ^looked/*looked$
-   90011 ^less/*less$
-   89880 ^pull/*pull$
-   89787 ^beat/*beat$
-   89667 ^careful/*careful$
-   89650 ^coffee/*coffee$
-   89451 ^return/*return$
-   89236 ^secret/*secret$
-   88925 ^weeks/*weeks$
-   88427 ^weren/*weren$
-   88407 ^date/*date$
-   88192 ^seeing/*seeing$
-   87762 ^fall/*fall$
-   87738 ^given/*given$
-   87683 ^ooh/*ooh$
-   87420 ^fault/*fault$
-   87378 ^straight/*straight$
-   86959 ^takes/*takes$
-   86877 ^song/*song$
-   86832 ^future/*future$
-   86660 ^gentlemen/*gentlemen$
-   86138 ^loved/*loved$
-   86133 ^changed/*changed$
-   85751 ^road/*road$
-   85638 ^calm/*calm$
-   85617 ^wonderful/*wonderful$
-   85366 ^mad/*mad$
-   85279 ^turned/*turned$
-   85186 ^drop/*drop$
-   85029 ^ladies/*ladies$
-   84936 ^learn/*learn$
-   84882 ^step/*step$
-   84856 ^absolutely/*absolutely$
-   84836 ^early/*early$
-   84368 ^explain/*explain$
-   84238 ^clean/*clean$
-   84224 ^piece/*piece$
-   83823 ^yesterday/*yesterday$
-   83679 ^throw/*throw$
-   83461 ^picture/*picture$
-   83422 ^land/*land$
-   83295 ^feet/*feet$
-   82903 ^wonder/*wonder$
-   82887 ^questions/*questions$
-   82769 ^speaking/*speaking$
-   82559 ^worth/*worth$
-   82240 ^darling/*darling$
-   82190 ^dude/*dude$
-   82085 ^giving/*giving$
-   81980 ^president/*president$
-   81953 ^eye/*eye$
-   81548 ^quick/*quick$
-   81193 ^moving/*moving$
-   81048 ^figure/*figure$
-   80818 ^state/*state$
-   80501 ^strong/*strong$
-   80423 ^sam/*sam$
-   80315 ^none/*none$
-   80267 ^amazing/*amazing$
-   79546 ^ones/*ones$
-   79323 ^works/*works$
-   79020 ^act/*act$
-   78920 ^needed/*needed$
-   78317 ^weird/*weird$
-   78264 ^law/*law$
-   78083 ^worried/*worried$
-   77824 ^report/*report$
-   77514 ^goodbye/*goodbye$
-   77326 ^missing/*missing$
-   77197 ^choice/*choice$
-   77052 ^happening/*happening$
-   76951 ^chief/*chief$
-   76940 ^wedding/*wedding$
-   76863 ^strange/*strange$
-   76816 ^general/*general$
-   76799 ^pain/*pain$
-   76751 ^'am/*'am$
-   76744 ^kidding/*kidding$
-   76683 ^decided/*decided$
-   76658 ^ya/*ya$
-   76635 ^pass/*pass$
-   76540 ^tired/*tired$
-   76489 ^class/*class$
-   76015 ^officer/*officer$
-   75930 ^kept/*kept$
-   75776 ^wake/*wake$
-   75595 ^worse/*worse$
-   75557 ^busy/*busy$
-   75178 ^eh/*eh$
-   74957 ^mistake/*mistake$
-   74790 ^kiss/*kiss$
-   74580 ^court/*court$
-   74492 ^building/*building$
-   74299 ^finish/*finish$
-   74298 ^during/*during$
-   74262 ^age/*age$
-   74224 ^ship/*ship$
-   74060 ^caught/*caught$
-   73938 ^marry/*marry$
-   73929 ^meant/*meant$
-   73802 ^sell/*sell$
-   73770 ^dark/*dark$
-   73700 ^watching/*watching$
-   73678 ^system/*system$
-   73465 ^suppose/*suppose$
-   73113 ^evidence/*evidence$
-   73070 ^movie/*movie$
-   73070 ^ride/*ride$
-   72881 ^t/*t$
-   72777 ^completely/*completely$
-   72733 ^mouth/*mouth$
-   72478 ^totally/*totally$
-   72140 ^birthday/*birthday$
-   72054 ^tv/*tv$
-   71915 ^forgive/*forgive$
-   71906 ^born/*born$
-   71873 ^imagine/*imagine$
-   71840 ^information/*information$
-   71571 ^instead/*instead$
-   71524 ^definitely/*definitely$
-   71503 ^security/*security$
-   71435 ^certainly/*certainly$
-   71407 ^film/*film$
-   71163 ^month/*month$
-   71098 ^lying/*lying$
-   70979 ^unless/*unless$
-   70974 ^train/*train$
-   70968 ^seven/*seven$
-   70955 ^wear/*wear$
-   70929 ^clothes/*clothes$
-   70741 ^michael/*michael$
-   70659 ^hotel/*hotel$
-   70624 ^christmas/*christmas$
-   70583 ^attack/*attack$
-   70449 ^hasn/*hasn$
-   70043 ^round/*round$
-   69614 ^expect/*expect$
-   69575 ^sing/*sing$
-   69499 ^terrible/*terrible$
-   69441 ^george/*george$
-   69186 ^bag/*bag$
-   69119 ^history/*history$
-   68839 ^blue/*blue$
-   68790 ^near/*near$
-   68629 ^broke/*broke$
-   68571 ^station/*station$
-   68524 ^seriously/*seriously$
-   68510 ^forever/*forever$
-   68505 ^david/*david$
-   68472 ^frank/*frank$
-   68440 ^except/*except$
-   68354 ^thinks/*thinks$
-   68305 ^message/*message$
-   68282 ^entire/*entire$
-   68244 ^joe/*joe$
-   67702 ^table/*table$
-   67666 ^talked/*talked$
-   67595 ^across/*across$
-   67361 ^rock/*rock$
-   67236 ^lovely/*lovely$
-   67089 ^handle/*handle$
-   66734 ^middle/*middle$
-   66718 ^buddy/*buddy$
-   66526 ^paid/*paid$
-   66508 ^protect/*protect$
-   66503 ^using/*using$
-   66456 ^floor/*floor$
-   66177 ^ran/*ran$
-   66157 ^swear/*swear$
-   66119 ^spend/*spend$
-   66029 ^situation/*situation$
-   66018 ^ring/*ring$
-   65981 ^anywhere/*anywhere$
-   65974 ^dangerous/*dangerous$
-   65959 ^bill/*bill$
-   65880 ^york/*york$
-   65795 ^army/*army$
-   65756 ^lead/*lead$
-   65752 ^bought/*bought$
-   65659 ^finished/*finished$
-   65474 ^fair/*fair$
-   65448 ^sun/*sun$
-   65448 ^letter/*letter$
-   65432 ^fool/*fool$
-   65421 ^attention/*attention$
-   65275 ^club/*club$
-   65090 ^simple/*simple$
-   65082 ^interesting/*interesting$
-   64991 ^space/*space$
-   64969 ^test/*test$
-   64788 ^box/*box$
-   64761 ^group/*group$
-   64614 ^single/*single$
-   64521 ^sitting/*sitting$
-   64465 ^marriage/*marriage$
-   64456 ^join/*join$
-   64352 ^fear/*fear$
-   64304 ^d/*d$
-   64262 ^peace/*peace$
-   64169 ^forgot/*forgot$
-   63737 ^force/*force$
-   63714 ^short/*short$
-   63676 ^normal/*normal$
-   63672 ^charlie/*charlie$
-   63307 ^present/*present$
-   63294 ^enjoy/*enjoy$
-   63219 ^mike/*mike$
-   63084 ^crime/*crime$
-   62923 ^horse/*horse$
-   62860 ^ground/*ground$
-   62835 ^american/*american$
-   62763 ^count/*count$
-   62755 ^area/*area$
-   62746 ^charge/*charge$
-   62722 ^honor/*honor$
-   62582 ^lunch/*lunch$
-   62523 ^miles/*miles$
-   62502 ^radio/*radio$
-   62357 ^idiot/*idiot$
-   62325 ^ball/*ball$
-   62170 ^surprise/*surprise$
-   62166 ^paper/*paper$
-   62153 ^key/*key$
-   62148 ^boat/*boat$
-   62072 ^quickly/*quickly$
-   61935 ^gold/*gold$
-   61927 ^bar/*bar$
-   61813 ^fish/*fish$
-   61805 ^mark/*mark$
-   61785 ^tom/*tom$
-   61749 ^wearing/*wearing$
-   61698 ^crying/*crying$
-   61671 ^accident/*accident$
-   61646 ^government/*government$
-   61400 ^eight/*eight$
-   61371 ^fell/*fell$
-   61052 ^cover/*cover$
-   61050 ^certain/*certain$
-   61029 ^interested/*interested$
-   60938 ^deep/*deep$
-   60903 ^star/*star$
-   60812 ^sea/*sea$
-   60716 ^agree/*agree$
-   60633 ^problems/*problems$
-   60633 ^detective/*detective$
-   60581 ^prison/*prison$
-   60560 ^major/*major$
-   60548 ^stick/*stick$
-   60444 ^offer/*offer$
-   60404 ^difficult/*difficult$
-   60397 ^smart/*smart$
-   60381 ^personal/*personal$
-   60360 ^record/*record$
-   60200 ^stopped/*stopped$
-   60133 ^hide/*hide$
-   59993 ^whether/*whether$
-   59962 ^bank/*bank$
-   59906 ^trip/*trip$
-   59715 ^relax/*relax$
-   59703 ^america/*america$
-   59687 ^public/*public$
-   59557 ^list/*list$
-   59466 ^afternoon/*afternoon$
-   59464 ^brain/*brain$
-   59349 ^fix/*fix$
-   59332 ^bastard/*bastard$
-   59309 ^proud/*proud$
-   59277 ^tea/*tea$
-   59277 ^service/*service$
-   59151 ^screaming/*screaming$
-   59064 ^forward/*forward$
-   58748 ^angry/*angry$
-   58713 ^park/*park$
-   58677 ^soul/*soul$
-   58657 ^fighting/*fighting$
-   58654 ^peter/*peter$
-   58651 ^rich/*rich$
-   58608 ^agent/*agent$
-   58531 ^blow/*blow$
-   58529 ^paul/*paul$
-   58429 ^dress/*dress$
-   58366 ^mary/*mary$
-   58324 ^missed/*missed$
-   58017 ^scene/*scene$
-   57890 ^killing/*killing$
-   57866 ^standing/*standing$
-   57667 ^saved/*saved$
-   57659 ^mm/*mm$
-   57647 ^respect/*respect$
-   57555 ^killer/*killer$
-   57545 ^ice/*ice$
-   57542 ^mess/*mess$
-   57486 ^tough/*tough$
-   57388 ^feels/*feels$
-   57254 ^church/*church$
-   57179 ^sad/*sad$
-   57033 ^cell/*cell$
-   56919 ^drunk/*drunk$
-   56854 ^share/*share$
-   56757 ^camera/*camera$
-   56720 ^mm-hmm/*mm-hmm$
-   56709 ^within/*within$
-   56659 ^card/*card$
-   56595 ^fly/*fly$
-   56502 ^ben/*ben$
-   56475 ^girlfriend/*girlfriend$
-   56460 ^laugh/*laugh$
-   56399 ^smell/*smell$
-   56391 ^broken/*broken$
-   56281 ^mum/*mum$
-   56234 ^honest/*honest$
-   55998 ^often/*often$
-   55979 ^starting/*starting$
-   55940 ^calls/*calls$
-   55842 ^y/*y$
-   55836 ^spent/*spent$
-   55750 ^third/*third$
-   55677 ^english/*english$
-   55638 ^visit/*visit$
-   55372 ^mama/*mama$
-   55336 ^judge/*judge$
-   55285 ^window/*window$
-   55259 ^hungry/*hungry$
-   55131 ^dare/*dare$
-   55128 ^relationship/*relationship$
-   55096 ^moved/*moved$
-   55079 ^prove/*prove$
-   54978 ^private/*private$
-   54813 ^wall/*wall$
-   54615 ^seat/*seat$
-   54460 ^i-i/*i-i$
-   54449 ^position/*position$
-   54321 ^lieutenant/*lieutenant$
-   54306 ^realize/*realize$
-   54305 ^lt/*lt$
-   54148 ^especially/*especially$
-   54140 ^machine/*machine$
-   54115 ^walking/*walking$
-   54096 ^art/*art$
-   54085 ^pleasure/*pleasure$
+  e 139593 ^wow/*wow$
+  n 138996 ^couple/*couple$
+  n 138527 ^half/*half$
+  v 138432 ^died/*died$
+  a 138139 ^cool/*cool$
+  a 137598 ^free/*free$
+  r 137448 ^either/*either$
+  v 136699 ^seems/*seems$
+  n 136611 ^power/*power$
+  e 136564 ^whoa/*whoa$
+  n 136276 ^bye/*bye$
+  v 136137 ^buy/*buy$
+  v 136109 ^telling/*telling$
+  n 135631 ^honey/*honey$
+  v 135401 ^tried/*tried$
+  n 135341 ^front/*front$
+  n 134358 ^team/*team$
+  n 134088 ^answer/*answer$
+  n 133072 ^gun/*gun$
+  n 132594 ^boys/*boys$
+  n 132433 ^line/*line$
+  v 131999 ^send/*send$
+  n 131599 ^news/*news$
+  a 131497 ^stupid/*stupid$
+  n 131445 ^bed/*bed$
+  v 130182 ^hurry/*hurry$
+  a 129735 ^full/*full$
+  n 129732 ^months/*months$
+  v 129390 ^save/*save$
+  r 128779 ^sometimes/*sometimes$
+  v 128716 ^become/*become$
+  r 128220 ^along/*along$
+  v 128153 ^hate/*hate$
+  n 127657 ^food/*food$
+  o 127251 ^outside/*outside$
+  n 126657 ^light/*light$
+  x 126518 ^l/*l$
+  r 126398 ^needs/*needs$
+  n 125769 ^dog/*dog$
+  n 125731 ^country/*country$
+  a 125730 ^clear/*clear$
+  n 125446 ^order/*order$
+  x 125033 ^em/*em$
+  n 124995 ^fact/*fact$
+  n 124880 ^lord/*lord$
+  n 124874 ^captain/*captain$
+  u 124087 ^six/*six$
+  a 123994 ^hot/*hot$
+  a 123924 ^funny/*funny$
+  a 123718 ^black/*black$
+  n 123530 ^mrs./*mrs.$
+  a 122833 ^alive/*alive$
+  v 122698 ^pick/*pick$
+  n 122065 ^feeling/*feeling$
+  n 121552 ^living/*living$
+  n 121264 ^cause/*cause$
+  r 120295 ^ahead/*ahead$
+  v 118712 ^lose/*lose$
+  n 118230 ^king/*king$
+  n 118129 ^plan/*plan$
+  n 117970 ^dinner/*dinner$
+  v 117410 ^sighs/*sighs$
+  n 117267 ^sort/*sort$
+  v 117050 ^leaving/*leaving$
+  x 117029 ^shouldn/*shouldn$
+  v 116973 ^running/*running$
+  n 116736 ^boss/*boss$
+  x 116629 ^alright/*alright$
+  n 115908 ^promise/*promise$
+  v 115236 ^taken/*taken$
+  a 114104 ^safe/*safe$
+  x 114026 ^ma/*ma$
+  n 113963 ^book/*book$
+  n 113959 ^sent/*sent$
+  a 112881 ^white/*white$
+  n 112782 ^hour/*hour$
+  p 112582 ^anybody/*anybody$
+  a 112316 ^small/*small$
+  a 112229 ^perfect/*perfect$
+  x 112193 ^'cause/*'cause$
+  n 110583 ^lives/*lives$
+  a 110344 ^special/*special$
+  n 110206 ^parents/*parents$
+  x 110199 ^s/*s$
+  f 109966 ^john/*john$
+  p 109748 ^himself/*himself$
+  r 109240 ^perhaps/*perhaps$
+  n 109140 ^sounds/*sounds$
+  a 108774 ^serious/*serious$
+  a 108596 ^sick/*sick$
+  n 108073 ^company/*company$
+  x 107974 ^ha/*ha$
+  a 107906 ^scared/*scared$
+  n 107826 ^uncle/*uncle$
+  a 107444 ^poor/*poor$
+  a 106589 ^red/*red$
+  a 106439 ^past/*past$
+  n 106394 ^earth/*earth$
+  a 106080 ^possible/*possible$
+  v 106067 ^shoot/*shoot$
+  v 105846 ^touch/*touch$
+  n 105298 ^sound/*sound$
+  a 105282 ^top/*top$
+  n 105009 ^ass/*ass$
+  v 104913 ^laughs/*laughs$
+  c 103913 ^cannot/*cannot$
+  v 102974 ^asking/*asking$
+  v 102956 ^win/*win$
+  a 102848 ^glad/*glad$
+  n 102782 ^control/*control$
+  e 102607 ^hmm/*hmm$
+  n 102595 ^human/*human$
+  v 102436 ^drive/*drive$
+  n 101852 ^hair/*hair$
+  f 101666 ^jack/*jack$
+  n 101302 ^bitch/*bitch$
+  n 101228 ^luck/*luck$
+  n 101133 ^murder/*murder$
+  v 100847 ^happens/*happens$
+  n 100137 ^air/*air$
+  u 100133 ^ten/*ten$
+  n 100005 ^daddy/*daddy$
+  r 99904 ^finally/*finally$
+  v 99607 ^chuckles/*chuckles$
+  a  99084 ^fast/*fast$
+  a  99032 ^cold/*cold$
+  v  98575 ^seem/*seem$
+  v  98420 ^laughing/*laughing$
+  n 98242 ^words/*words$
+  n  98076 ^hospital/*hospital$
+  n 98007 ^street/*street$
+  v  97778 ^hang/*hang$
+  v 97339 ^dance/*dance$
+  v 97328 ^meeting/*meeting$
+  o 97044 ^till/*till$
+  a 96631 ^others/*others$
+  v 96609 ^catch/*catch$
+  v 96529 ^follow/*follow$
+  n 96442 ^sense/*sense$
+  n 96431 ^sex/*sex$
+  v 95930 ^lie/*lie$
+  n 95321 ^evening/*evening$
+  n 95131 ^master/*master$
+  a 95125 ^known/*known$
+  v 95089 ^dream/*dream$
+  v 94964 ^write/*write$
+  u 94514 ^million/*million$
+  n  94104 ^voice/*voice$
+  a  94057 ^sweet/*sweet$
+  r 94057 ^rather/*rather$
+  n 93826 ^felt/*felt$
+  n 92512 ^sign/*sign$
+  a 92377 ^lucky/*lucky$
+  r 92265 ^somewhere/*somewhere$
+  n 91573 ^bet/*bet$
+  x 91243 ^o/*o$
+  f 91143 ^jesus/*jesus$
+  a 91035 ^longer/*longer$
+  v 90868 ^calling/*calling$
+  v 90771 ^worked/*worked$
+  a 90552 ^quiet/*quiet$
+  v 90441 ^looked/*looked$
+  a 90011 ^less/*less$
+  v 89880 ^pull/*pull$
+  v 89787 ^beat/*beat$
+  a 89667 ^careful/*careful$
+  n 89650 ^coffee/*coffee$
+  v 89451 ^return/*return$
+  a 89236 ^secret/*secret$
+  n 88925 ^weeks/*weeks$
+  x 88427 ^weren/*weren$
+  n 88407 ^date/*date$
+  v 88192 ^seeing/*seeing$
+  v 87762 ^fall/*fall$
+  a 87738 ^given/*given$
+  x 87683 ^ooh/*ooh$
+  n 87420 ^fault/*fault$
+  a 87378 ^straight/*straight$
+  v 86959 ^takes/*takes$
+  n 86877 ^song/*song$
+  n 86832 ^future/*future$
+  n 86660 ^gentlemen/*gentlemen$
+  v 86138 ^loved/*loved$
+  v 86133 ^changed/*changed$
+  n 85751 ^road/*road$
+  a 85638 ^calm/*calm$
+  a 85617 ^wonderful/*wonderful$
+  a 85366 ^mad/*mad$
+  v 85279 ^turned/*turned$
+  v 85186 ^drop/*drop$
+  n 85029 ^ladies/*ladies$
+  v 84936 ^learn/*learn$
+  n 84882 ^step/*step$
+  r 84856 ^absolutely/*absolutely$
+  a 84836 ^early/*early$
+  v 84368 ^explain/*explain$
+  a 84238 ^clean/*clean$
+  n 84224 ^piece/*piece$
+  n 83823 ^yesterday/*yesterday$
+  v 83679 ^throw/*throw$
+  n 83461 ^picture/*picture$
+  n 83422 ^land/*land$
+  n 83295 ^feet/*feet$
+  n 82903 ^wonder/*wonder$
+  n 82887 ^questions/*questions$
+  v 82769 ^speaking/*speaking$
+  a 82559 ^worth/*worth$
+  a 82240 ^darling/*darling$
+  n 82190 ^dude/*dude$
+  a 82085 ^giving/*giving$
+  n 81980 ^president/*president$
+  n 81953 ^eye/*eye$
+  a 81548 ^quick/*quick$
+  v 81193 ^moving/*moving$
+  n 81048 ^figure/*figure$
+  n 80818 ^state/*state$
+  a 80501 ^strong/*strong$
+  f 80423 ^sam/*sam$
+  p 80315 ^none/*none$
+  a 80267 ^amazing/*amazing$
+  x 79546 ^ones/*ones$
+  n 79323 ^works/*works$
+  v 79020 ^act/*act$
+  v 78920 ^needed/*needed$
+  a 78317 ^weird/*weird$
+  n 78264 ^law/*law$
+  v 78083 ^worried/*worried$
+  n 77824 ^report/*report$
+  n 77514 ^goodbye/*goodbye$
+  a 77326 ^missing/*missing$
+  n 77197 ^choice/*choice$
+  n 77052 ^happening/*happening$
+  n 76951 ^chief/*chief$
+  n 76940 ^wedding/*wedding$
+  a 76863 ^strange/*strange$
+  a 76816 ^general/*general$
+  n 76799 ^pain/*pain$
+  x 76751 ^'am/*'am$
+  n 76744 ^kidding/*kidding$
+  a 76683 ^decided/*decided$
+  p 76658 ^ya/*ya$
+  v 76635 ^pass/*pass$
+  a 76540 ^tired/*tired$
+  n 76489 ^class/*class$
+  n 76015 ^officer/*officer$
+  v 75930 ^kept/*kept$
+  v 75776 ^wake/*wake$
+  a 75595 ^worse/*worse$
+  a 75557 ^busy/*busy$
+  e 75178 ^eh/*eh$
+  n 74957 ^mistake/*mistake$
+  v 74790 ^kiss/*kiss$
+  n 74580 ^court/*court$
+  n 74492 ^building/*building$
+  v 74299 ^finish/*finish$
+  o 74298 ^during/*during$
+  n 74262 ^age/*age$
+  n 74224 ^ship/*ship$
+  v 74060 ^caught/*caught$
+  v 73938 ^marry/*marry$
+  v 73929 ^meant/*meant$
+  v 73802 ^sell/*sell$
+  a 73770 ^dark/*dark$
+  v 73700 ^watching/*watching$
+  n 73678 ^system/*system$
+  v 73465 ^suppose/*suppose$
+  n 73113 ^evidence/*evidence$
+  n 73070 ^movie/*movie$
+  v 73070 ^ride/*ride$
+  x 72881 ^t/*t$
+  r 72777 ^completely/*completely$
+  n 72733 ^mouth/*mouth$
+  r 72478 ^totally/*totally$
+  n 72140 ^birthday/*birthday$
+  n 72054 ^tv/*tv$
+  v 71915 ^forgive/*forgive$
+  a 71906 ^born/*born$
+  v 71873 ^imagine/*imagine$
+  n 71840 ^information/*information$
+  r 71571 ^instead/*instead$
+  r 71524 ^definitely/*definitely$
+  n 71503 ^security/*security$
+  r 71435 ^certainly/*certainly$
+  n 71407 ^film/*film$
+  n 71163 ^month/*month$
+  r 71098 ^lying/*lying$
+  i 70979 ^unless/*unless$
+  n 70974 ^train/*train$
+  u 70968 ^seven/*seven$
+  v 70955 ^wear/*wear$
+  n 70929 ^clothes/*clothes$
+  f 70741 ^michael/*michael$
+  n 70659 ^hotel/*hotel$
+  n 70624 ^christmas/*christmas$
+  v 70583 ^attack/*attack$
+  x 70449 ^hasn/*hasn$
+  a 70043 ^round/*round$
+  v 69614 ^expect/*expect$
+  v 69575 ^sing/*sing$
+  a 69499 ^terrible/*terrible$
+  f 69441 ^george/*george$
+  n 69186 ^bag/*bag$
+  n 69119 ^history/*history$
+  a 68839 ^blue/*blue$
+  r 68790 ^near/*near$
+  v 68629 ^broke/*broke$
+  n 68571 ^station/*station$
+  r 68524 ^seriously/*seriously$
+  r 68510 ^forever/*forever$
+  f 68505 ^david/*david$
+  f 68472 ^frank/*frank$
+  o 68440 ^except/*except$
+  v 68354 ^thinks/*thinks$
+  n 68305 ^message/*message$
+  a 68282 ^entire/*entire$
+  f 68244 ^joe/*joe$
+  n 67702 ^table/*table$
+  v 67666 ^talked/*talked$
+  o 67595 ^across/*across$
+  n 67361 ^rock/*rock$
+  a 67236 ^lovely/*lovely$
+  v 67089 ^handle/*handle$
+  n 66734 ^middle/*middle$
+  n 66718 ^buddy/*buddy$
+  v 66526 ^paid/*paid$
+  v 66508 ^protect/*protect$
+  v 66503 ^using/*using$
+  n 66456 ^floor/*floor$
+  v 66177 ^ran/*ran$
+  v 66157 ^swear/*swear$
+  v 66119 ^spend/*spend$
+  n 66029 ^situation/*situation$
+  n 66018 ^ring/*ring$
+  r 65981 ^anywhere/*anywhere$
+  a 65974 ^dangerous/*dangerous$
+  n 65959 ^bill/*bill$
+  v 65880 ^york/*york$
+  n 65795 ^army/*army$
+  v 65756 ^lead/*lead$
+  v 65752 ^bought/*bought$
+  v 65659 ^finished/*finished$
+  a 65474 ^fair/*fair$
+  n 65448 ^sun/*sun$
+  n 65448 ^letter/*letter$
+  a 65432 ^fool/*fool$
+  n 65421 ^attention/*attention$
+  n 65275 ^club/*club$
+  a 65090 ^simple/*simple$
+  a 65082 ^interesting/*interesting$
+  n 64991 ^space/*space$
+  n 64969 ^test/*test$
+  n 64788 ^box/*box$
+  n 64761 ^group/*group$
+  a 64614 ^single/*single$
+  v 64521 ^sitting/*sitting$
+  n 64465 ^marriage/*marriage$
+  v 64456 ^join/*join$
+  v 64352 ^fear/*fear$
+  x 64304 ^d/*d$
+  n 64262 ^peace/*peace$
+  v 64169 ^forgot/*forgot$
+  n 63737 ^force/*force$
+  a 63714 ^short/*short$
+  a 63676 ^normal/*normal$
+  f 63672 ^charlie/*charlie$
+  n 63307 ^present/*present$
+  v 63294 ^enjoy/*enjoy$
+  f 63219 ^mike/*mike$
+  n 63084 ^crime/*crime$
+  n 62923 ^horse/*horse$
+  n 62860 ^ground/*ground$
+  a 62835 ^american/*american$
+  n 62763 ^count/*count$
+  n 62755 ^area/*area$
+  n 62746 ^charge/*charge$
+  n 62722 ^honor/*honor$
+  n 62582 ^lunch/*lunch$
+  n 62523 ^miles/*miles$
+  n 62502 ^radio/*radio$
+  a 62357 ^idiot/*idiot$
+  n 62325 ^ball/*ball$
+  v 62170 ^surprise/*surprise$
+  n 62166 ^paper/*paper$
+  n 62153 ^key/*key$
+  n 62148 ^boat/*boat$
+  r 62072 ^quickly/*quickly$
+  n 61935 ^gold/*gold$
+  n 61927 ^bar/*bar$
+  n 61813 ^fish/*fish$
+  n 61805 ^mark/*mark$
+  f 61785 ^tom/*tom$
+  v 61749 ^wearing/*wearing$
+  v 61698 ^crying/*crying$
+  n 61671 ^accident/*accident$
+  n 61646 ^government/*government$
+  u 61400 ^eight/*eight$
+  v 61371 ^fell/*fell$
+  v 61052 ^cover/*cover$
+  a 61050 ^certain/*certain$
+  v 61029 ^interested/*interested$
+  a 60938 ^deep/*deep$
+  n 60903 ^star/*star$
+  n 60812 ^sea/*sea$
+  v 60716 ^agree/*agree$
+  n 60633 ^problems/*problems$
+  n 60633 ^detective/*detective$
+  nn 60581 ^prison/*prison$
+  a 60560 ^major/*major$
+  n 60548 ^stick/*stick$
+  n 60444 ^offer/*offer$
+  a 60404 ^difficult/*difficult$
+  a 60397 ^smart/*smart$
+  n 60381 ^personal/*personal$
+  n 60360 ^record/*record$
+  v 60200 ^stopped/*stopped$
+  v 60133 ^hide/*hide$
+  c 59993 ^whether/*whether$
+  n 59962 ^bank/*bank$
+  n 59906 ^trip/*trip$
+  v 59715 ^relax/*relax$
+  n 59703 ^america/*america$
+  n 59687 ^public/*public$
+  n 59557 ^list/*list$
+  n 59466 ^afternoon/*afternoon$
+  n 59464 ^brain/*brain$
+  v 59349 ^fix/*fix$
+  n 59332 ^bastard/*bastard$
+  a 59309 ^proud/*proud$
+  n 59277 ^tea/*tea$
+  n 59277 ^service/*service$
+  v 59151 ^screaming/*screaming$
+  r 59064 ^forward/*forward$
+  a 58748 ^angry/*angry$
+  n 58713 ^park/*park$
+  n 58677 ^soul/*soul$
+  v 58657 ^fighting/*fighting$
+  f 58654 ^peter/*peter$
+  a 58651 ^rich/*rich$
+  n 58608 ^agent/*agent$
+  n 58531 ^blow/*blow$
+  f 58529 ^paul/*paul$
+  n 58429 ^dress/*dress$
+  f 58366 ^mary/*mary$
+  v 58324 ^missed/*missed$
+  n 58017 ^scene/*scene$
+  v 57890 ^killing/*killing$
+  v 57866 ^standing/*standing$
+  v 57667 ^saved/*saved$
+  e 57659 ^mm/*mm$
+  n 57647 ^respect/*respect$
+  n 57555 ^killer/*killer$
+  n 57545 ^ice/*ice$
+  n 57542 ^mess/*mess$
+  a 57486 ^tough/*tough$
+  v 57388 ^feels/*feels$
+  n 57254 ^church/*church$
+  a 57179 ^sad/*sad$
+  n 57033 ^cell/*cell$
+  a 56919 ^drunk/*drunk$
+  v 56854 ^share/*share$
+  n 56757 ^camera/*camera$
+  e 56720 ^mm-hmm/*mm-hmm$
+  o 56709 ^within/*within$
+  n 56659 ^card/*card$
+  n 56595 ^fly/*fly$
+  f 56502 ^ben/*ben$
+  n 56475 ^girlfriend/*girlfriend$
+  v 56460 ^laugh/*laugh$
+  v 56399 ^smell/*smell$
+  a 56391 ^broken/*broken$
+  n 56281 ^mum/*mum$
+  a 56234 ^honest/*honest$
+  r 55998 ^often/*often$
+  v 55979 ^starting/*starting$
+  v 55940 ^calls/*calls$
+  x 55842 ^y/*y$
+  v 55836 ^spent/*spent$
+  n 55750 ^third/*third$
+  n 55677 ^english/*english$
+  v 55638 ^visit/*visit$
+  n 55372 ^mama/*mama$
+  n 55336 ^judge/*judge$
+  n 55285 ^window/*window$
+  v 55259 ^hungry/*hungry$
+  v 55131 ^dare/*dare$
+  n 55128 ^relationship/*relationship$
+  v 55096 ^moved/*moved$
+  v 55079 ^prove/*prove$
+  a 54978 ^private/*private$
+  n 54813 ^wall/*wall$
+  n 54615 ^seat/*seat$
+  x 54460 ^i-i/*i-i$
+  n 54449 ^position/*position$
+  n 54321 ^lieutenant/*lieutenant$
+  v 54306 ^realize/*realize$
+  x 54305 ^lt/*lt$
+  r 54148 ^especially/*especially$
+  n 54140 ^machine/*machine$
+  v 54115 ^walking/*walking$
+  n 54096 ^art/*art$
+  v 54085 ^pleasure/*pleasure$
    54026 ^bloody/*bloody$
    53933 ^college/*college$
    53911 ^french/*french$
